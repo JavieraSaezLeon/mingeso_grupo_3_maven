@@ -53,6 +53,7 @@ public class ProductoControllerTest {
         //fail("The test case is a prototype.");
     }
 
+    
     /**
      * Test of setSelected method, of class ProductoController.
      */
@@ -89,7 +90,7 @@ public class ProductoControllerTest {
 
     /**
      * Test of create method, of class ProductoController.
-     */
+     
     @Test
     public void testCreate() {
         System.out.println("create");
@@ -98,10 +99,10 @@ public class ProductoControllerTest {
         // TODO review the generated test code and remove the default call to fail.
         fail("The test case is a prototype.");
     }
-
+*/
     /**
      * Test of update method, of class ProductoController.
-     */
+     
     @Test
     public void testUpdate() {
         System.out.println("update");
@@ -115,10 +116,10 @@ public class ProductoControllerTest {
         // TODO review the generated test code and remove the default call to fail.
         fail("The test case is a prototype.");
     }
-
+*/
     /**
      * Test of destroy method, of class ProductoController.
-     */
+     
     @Test
     public void testDestroy() {
         System.out.println("destroy");
@@ -127,10 +128,10 @@ public class ProductoControllerTest {
         // TODO review the generated test code and remove the default call to fail.
         fail("The test case is a prototype.");
     }
-
+*/
     /**
      * Test of getItems method, of class ProductoController.
-     */
+    
     @Test
     public void testGetItems() {
         System.out.println("getItems");
@@ -141,10 +142,10 @@ public class ProductoControllerTest {
         // TODO review the generated test code and remove the default call to fail.
         fail("The test case is a prototype.");
     }
-
+ */
     /**
      * Test of getProducto method, of class ProductoController.
-     */
+     
     @Test
     public void testGetProducto() {
         System.out.println("getProducto2");
@@ -156,5 +157,5 @@ public class ProductoControllerTest {
         // TODO review the generated test code and remove the default call to fail.
         //fail("The test case is a prototype.");
     }
-    
+    */
 }

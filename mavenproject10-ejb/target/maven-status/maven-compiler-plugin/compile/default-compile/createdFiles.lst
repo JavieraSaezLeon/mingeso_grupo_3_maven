@@ -1,0 +1,5 @@
+com\mycompany\ProductoFacade.class
+com\mycompany\ProductoFacadeLocal.class
+model\Producto.class
+com\mycompany\AbstractFacade.class
+model\Producto_.class
