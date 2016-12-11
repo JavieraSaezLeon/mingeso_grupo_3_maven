@@ -80,9 +80,9 @@
                 <version>2.6</version>
                 <executions>
                     <execution>
-                        <phase>validate</phase>
+                        <phase>test</phase>
                         <goals>
-                            <goal>copy</goal>
+                            <goal>resolve-plugins</goal>
                         </goals>
                         <configuration>
                             <outputDirectory>${endorsed.dir}</outputDirectory>
