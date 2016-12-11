@@ -119,6 +119,7 @@
                                 </artifactItem>
                             </artifactItems>
                         </configuration>
+                        kjh
                     </execution>
                 </executions>
             </plugin>
