@@ -103,10 +103,9 @@
                 <version>2.6</version>
                 <executions>
                     <execution>
-                        <phase>test</phase>
+                        <phase>validate</phase>
                         <goals>
-                            <goal>resolve-plugins</goal>
-                            
+                            <goal>copy</goal>
                         </goals>
                         <configuration>
                             <outputDirectory>${endorsed.dir}</outputDirectory>
